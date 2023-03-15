@@ -1,0 +1,4 @@
+msprime
+tskit
+fwdpy11==0.19.0a5
+matplotlib
